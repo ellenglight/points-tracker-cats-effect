@@ -96,6 +96,7 @@ project/plugins/project/
 .scala_dependencies
 bin/
 build/
+.bsp/
 
 # Other
 RUNNING_PID
